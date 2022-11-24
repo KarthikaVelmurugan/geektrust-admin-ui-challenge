@@ -16,7 +16,7 @@ Endpoint :
 https://geektrust.s3-ap-southeast-1.amazonaws.com/adminui-problem/members.json
 Sample Response :
                   
-                    [
+  [
   {
     "id": "1",
     "name": "Aaron Miles",
@@ -48,3 +48,13 @@ Front End - React JS,CSS
 5. Custom Toast Window
 
 ## Output Screenshots
+
+![full-screen](https://user-images.githubusercontent.com/64409033/203771451-95ff72f0-9acc-4176-a709-963ad89959a6.png)
+
+![edit-page](https://user-images.githubusercontent.com/64409033/203771519-8a43dae1-0611-48ea-990a-2db7dad028d9.png)
+
+![custom-toast](https://user-images.githubusercontent.com/64409033/203771537-04bc4796-6d6a-426a-a8be-a08e584cd0ab.png)
+
+
+https://user-images.githubusercontent.com/64409033/203771956-c2180cae-e400-4024-b10a-7e0b5a852ff2.mp4
+
