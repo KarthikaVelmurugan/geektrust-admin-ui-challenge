@@ -1,0 +1,8 @@
+/* Styles for Search Bar */
+.search-bar{
+    display: flex;
+    width: 100%;
+    border: 1px solid rgb(180, 178, 178);
+    border-radius: 8px;
+    padding:10px;
+}

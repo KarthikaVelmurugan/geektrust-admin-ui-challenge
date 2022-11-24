@@ -1,0 +1,26 @@
+.alert {
+    position: fixed;
+    top: 1%;
+    left:30%;
+    padding: 18px;
+    background-color: var(--textLightThemeColor);
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 10px;
+    
+  }
+  
+  .closebtn {
+    margin-left: 15px;
+    color: rgb(230, 232, 235);
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  .hidden{
+      display: none;
+  }
